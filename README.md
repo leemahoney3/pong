@@ -2,6 +2,7 @@
 Programming Fundamentals Assignment 1 - WIT
 
 **Description of the animation achieved:**
+
 Pong?! is your generic pong game with a twist. The game itself starts off as a casual game of Pong but get's very tricky very fast.
 The game starts off with the ball going an average speed and the platform (you could think of it as the paddle) rather large (150px).
 
